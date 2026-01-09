@@ -1,23 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="979fa95d-9422-44cc-a5e5-2f234d4d2839" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/spam_classifier_pycharm_project_showplots.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REPORT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/i_beroshvili25_91478.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model_training.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/outputs/class_distribution.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/outputs/coefficients_bar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/outputs/confusion_matrix_heatmap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spam_features.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spam_lr_model.joblib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visualize.py" afterDir="false" />
+    <list default="true" id="16c1a3a7-1e93-4b81-b255-80232d88f92f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/spam_classifier_pycharm_project_showplots.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/spam_classifier_pycharm_project_showplots.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +15,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
   "associatedIndex": 8
 }]]></component>
-  <component name="ProjectId" id="381rOAafkChOtRDxwMnCyIEFSq2" />
+  <component name="ProjectId" id="3829aIlnU3eawCuzyyRoT7Wtkxe" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -56,23 +44,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="979fa95d-9422-44cc-a5e5-2f234d4d2839" name="Changes" comment="" />
-      <created>1767977884215</created>
+      <changelist id="16c1a3a7-1e93-4b81-b255-80232d88f92f" name="Changes" comment="" />
+      <created>1767986864950</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1767977884215</updated>
+      <updated>1767986864950</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>112</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
