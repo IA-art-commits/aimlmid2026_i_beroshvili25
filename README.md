@@ -1,8 +1,8 @@
 # aimlmid2026_i_beroshvili25
 Midterm Exam Project AI &amp; Machine Learnin
-
+gitithub Link 
 # 📘 Midterm Exam Report
-
+Github Upload Adrress: https://github.com/IA-art-commits/aimlmid2026_i_beroshvili25.git
 ## Statistical Analysis and Email Spam Classification
 
 **Student:** I. Beroshvili
